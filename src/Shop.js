@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
 import jeju from './jeju.jpg'; // with import
+import './App.css';
 
 function Shop() {
     useEffect(() => {
